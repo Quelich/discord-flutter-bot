@@ -12,7 +12,7 @@ Luckily, they managed to stay online with a Discord Server so that a student can
 
 - To sum up, this project addresses the sophisticated process of displaying Flutter and Dart SDK versions by Python automation.
 
-![](https://github.com/Quelich/dc-flutter-bot/blob/main/images/commands-1.png?raw=true)
+![](https://github.com/Quelich/discord-flutter-bot/blob/main/images/commands-1.png?raw=true)
 # Software Components
 
 ## Data
