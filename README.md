@@ -16,8 +16,7 @@ Luckily, they managed to stay online with a Discord Server so that a student can
 # Software Components
 
 ## Data
-- Python web scraping utilities are used in this project to fetch data.
-- Resources: [Flutter SDK](https://docs.flutter.dev/development/tools/sdk/releases), [Dart SDK](https://dart.dev/get-dart/archive)
+- Scraped data from [Flutter SDK](https://docs.flutter.dev/development/tools/sdk/releases) and [Dart SDK](https://dart.dev/get-dart/archive) with Selenium, Beautiful Soup, ChromeDriver modules.
 ## Deployment
 - Python app is running on [Heroku](https://dashboard.heroku.com/apps)
 # What I learned
